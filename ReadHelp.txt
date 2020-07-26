@@ -1,0 +1,8 @@
+Git set up 
+ create repo in git UI
+   set up dev git branch like below 
+   git init 
+   git status
+    git add .
+     git add remote origin ["this will be repo ssh copied from the UI"]
+     git push -u origin master
